@@ -21,21 +21,21 @@ for i in range(0, len(arr)):
 #			print(arr[1])
 #		j = 2
 #			index = int((0 + 2) % 4) = 2
-#			print(arr[0])
+#			print(arr[2])
 #		j = 3
 #			index = int((0 + 3) % 4) = 3
-#			print(arr[0])
+#			print(arr[3])
 
 # i = 1
 #		j = 0
 #			index = int((1 + 0) % 4) = 1
-#			print(arr[0])
+#			print(arr[1])
 #		j = 1
 #			index = int((1 + 1) % 4) = 2
-#			print(arr[1])
+#			print(arr[2])
 #		j = 2
 #			index = int((1 + 2) % 4) = 3
-#			print(arr[0])
+#			print(arr[3])
 #		j = 3
 #			index = int((1 + 3) % 4) = 0
 #			print(arr[0])
@@ -43,27 +43,27 @@ for i in range(0, len(arr)):
 # i = 2
 #		j = 0
 #			index = int((2+ 0) % 4) = 2
-#			print(arr[0])
+#			print(arr[2])
 #		j = 1
 #			index = int((2 + 1) % 4) = 3
-#			print(arr[1])
+#			print(arr[3])
 #		j = 2
 #			index = int((2 + 2) % 4) = 0
 #			print(arr[0])
 #		j = 3
 #			index = int((2 + 3) % 4) = 1
-#			print(arr[0])
+#			print(arr[1])
 
 # i = 3
 #		j = 0
 #			index = int((3 + 0) % 4) = 3
-#			print(arr[0])
+#			print(arr[3])
 #		j = 1
 #			index = int((3 + 1) % 4) = 0
-#			print(arr[1])
+#			print(arr[0])
 #		j = 2
 #			index = int((3 + 2) % 4) = 1
-#			print(arr[0])
+#			print(arr[1])
 #		j = 3
 #			index = int((3 + 3) % 4) = 2
-#			print(arr[0])
+#			print(arr[2])
